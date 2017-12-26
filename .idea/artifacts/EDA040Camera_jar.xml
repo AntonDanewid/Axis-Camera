@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EDA040Camera:jar">
+    <output-path>$USER_HOME$/Desktop/COMPILED JAR</output-path>
+    <root id="archive" name="EDA040Camera.jar">
+      <element id="module-output" name="EDA040Camera" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/camera.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
